@@ -1,6 +1,7 @@
 import './js/modal.js';
 
 // (() => {
+
 //     const refs = {
 //       openModalBtn: document.querySelector("[data-modal-open]"),
 //       closeModalBtn: document.querySelector("[data-modal-close]"),
