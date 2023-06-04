@@ -1,6 +1,4 @@
-
 import './js/modal.js';
-
 
 // (() => {
 //     const refs = {
@@ -8,12 +6,11 @@ import './js/modal.js';
 //       closeModalBtn: document.querySelector("[data-modal-close]"),
 //       modal: document.querySelector("[data-modal]"),
 //     };
-  
+
 //     refs.openModalBtn.addEventListener("click", toggleModal);
 //     refs.closeModalBtn.addEventListener("click", toggleModal);
-  
+
 //     function toggleModal() {
 //       refs.modal.classList.toggle("is-hidden");
 //     }
 //   })();
-
